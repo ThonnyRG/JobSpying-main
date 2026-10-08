@@ -1,0 +1,82 @@
+{
+    "user_name": "Jesús Antonio Morales Cruz",
+    "user_email": "jesus2013.jamc7@gmail.com",
+    "user_number": "+52 921 103 1160",
+    "user_location": "Veracruz, México",
+    "user_linkedin": "linkedin.com/in/jamc17",
+    "experiences": [
+      {
+        "company_name": "VCap",
+        "location": "Remote",
+        "role": "Full-Stack Software Engineer",
+        "start_date": "2026",
+        "end_date": "Present",
+        "description": [
+          "Built a full-stack e-commerce prototype using Next.js, React, Prisma, and Cloudflare Workers to support product catalog, shopping cart, and order-management workflows.",
+          "Designed and implemented 14 REST API endpoints, connecting frontend workflows with persistent backend operations and WhatsApp checkout.",
+          "Validated API behavior with Postman by testing success and error scenarios across 14 endpoints, improving reliability through iterative debugging."
+        ]
+      },
+      {
+        "company_name": "SShare México",
+        "location": "Toluca de Lerdo, México",
+        "role": "Software Engineer Intern",
+        "start_date": "September 2025",
+        "end_date": "December 2025",
+        "description": [
+          "Developed a backend ticket-management system using Node.js, implementing authentication, role-based access control, CRUD operations, and service-layer logic.",
+          "Designed the relational database architecture, ER models, class diagrams, and system documentation to support maintainable object-oriented development.",
+          "Created and executed API tests with Postman, validating endpoint behavior and resolving issues to improve system reliability.",
+          "Applied Agile development practices through pair programming, continuous feedback, collective code ownership, and collaborative Git/GitHub workflows."
+        ]
+      },
+      {
+        "company_name": "Clever Cloud MX",
+        "location": "México",
+        "role": "Software Engineer Intern",
+        "start_date": "August 2024",
+        "end_date": "February 2025",
+        "description": [
+          "Optimized SQL queries for a Java-based POS platform, improving query execution performance by 60% and supporting greater application scalability.",
+          "Developed and maintained unit tests using JUnit and JProfiler, helping identify approximately 40% of platform bugs earlier in the development process.",
+          "Contributed to Agile development using Scrum, Kanban, and XP practices to support iterative delivery and team collaboration.",
+          "Improved development and deployment workflows through CI/CD practices, reducing deployment time by 80%."
+        ]
+      },
+      {
+        "company_name": "EYCO",
+        "location": "Xalapa, Veracruz, México",
+        "role": "Web Developer",
+        "start_date": "July 2024",
+        "end_date": "January 2025",
+        "description": [
+          "Modernized a web platform by implementing dynamic interfaces with React, improving the structure and maintainability of the existing application.",
+          "Refactored existing web code and implemented interactive functionality to improve the overall user experience."
+        ]
+      },
+      {
+        "company_name": "Tester Work",
+        "location": "Remote",
+        "role": "Junior Software QA Tester",
+        "start_date": "December 2025",
+        "end_date": "Present",
+        "description": [
+          "Executed functional, regression, and integration testing across software projects to validate application behavior and identify defects.",
+          "Applied software quality practices and static analysis with SonarQube to identify critical code-quality issues.",
+          "Validated AI-assisted workflows using Vertex AI while documenting and reporting software issues."
+        ]
+      }
+    ],
+    "languages_list": "Python, Java, JavaScript, SQL, C/C++",
+    "back_and_frm_list": "Spring Boot, Node.js, Next.js, React, REST APIs, Object-Oriented Programming, HTTP",
+    "cloud_and_system_list": "Git, GitHub, Docker, Linux, Cloudflare, Azure, AWS",
+    "data_and_tooling": "Postman, Jira, Confluence, JUnit, Mockito, SonarQube, MySQL, PostgreSQL",
+    "education_list": [
+      {
+        "institution": "Universidad Veracruzana",
+        "dates": "2021 - 2025",
+        "degree": "B.S. in Software Engineering",
+        "location": "Veracruz, México"
+      }
+    ]
+  }
