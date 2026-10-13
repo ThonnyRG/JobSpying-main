@@ -6,6 +6,8 @@
 /.ipynb_checkpoints/
 **/output/
 **/.DS_Store
+documents/*.json
+documents/*.pdf
 *.pyc
 .env
 dist
